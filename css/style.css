@@ -18,3 +18,38 @@ body {
 .pricing {
 	border: 5px solid #007BFF;
 }
+
+
+.slider {
+	background-image: url(../images/slider_bg.jpeg);
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center;
+}
+
+.custom_slider {
+	background-color: rgba(1, 1, 1, .5);
+	color: #fff;
+	padding: 50px 80px;
+}
+
+.custom_slider h1 {
+	font-size: 30px;
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+.custom_slider p {
+	font-size: 20px;
+}
+.custom_slider button {
+	font-size: 20px;
+	padding: 5px 15px;
+}
+
+.custom_indicator li {
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	background-color: rgba(0, 105, 217, .5)
+}

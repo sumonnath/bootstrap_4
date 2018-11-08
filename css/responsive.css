@@ -1,0 +1,59 @@
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) {
+
+.custom_slider h1 {
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.custom_slider p {
+    font-size: 15px;
+}
+
+}
+
+
+
+
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) {
+
+.custom_slider h1 {
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.custom_slider p {
+    font-size: 14px;
+
+}
+
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) {
+
+.custom_slider h1 {
+    font-size: 26px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+
+}
+
+
+
+
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) {
+
+
+
+
+
+
+}
